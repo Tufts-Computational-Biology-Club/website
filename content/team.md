@@ -16,7 +16,7 @@ Research interests include
 Links: [Website](#) · [GitHub](https://github.com/username)
 
 #### Jaycee Choi — Senior Advisor
-Research interests include
+Research interests include using computer vision to quantify mouse behavior.
 
 Links: [Website](https://jayceechoi.com) · [GitHub](https://github.com/dahhei)
 
