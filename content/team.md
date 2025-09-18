@@ -1,9 +1,9 @@
 ### Officers
 
 #### Sonal Kumar — President
-Research interests include
+Research interests include leveraging integrative approaches for studying genetic mechanisms of neurodegeneration.
 
-Links: [Website](https://sonalkumarr.github.io/) · [GitHub](https://github.com/username)
+Links: [Website](https://sonalkumarr.github.io/) · [GitHub](https://github.com/sonalkumarr)
 
 #### Hannah Dewey — Vice President
 Research interests include
