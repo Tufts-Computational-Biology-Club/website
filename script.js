@@ -57,8 +57,8 @@ document.addEventListener('DOMContentLoaded', () => {
       about: ['content/about.md', 'content/about.html'],
       events: ['content/events.md', 'content/events.html'],
       team: ['content/team.md', 'content/team.html'],
-      resources: ['content/resources.html', 'content/resources.md'],
       contribute: ['content/contribute.md', 'content/contribute.html'],
+      resources: ['content/resources.html', 'content/resources.md', 'content/Resources.html'],
       join: ['content/join.md', 'content/join.html'],
     };
 

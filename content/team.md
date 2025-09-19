@@ -6,9 +6,9 @@ Research interests include leveraging integrative approaches for studying geneti
 Links: [Website](https://sonalkumarr.github.io/) · [GitHub](https://github.com/sonalkumarr)
 
 #### Hannah Dewey — Vice President
-Research interests include
+Research interests include leveraging genetic diversity to investigate gene-by-environment interactions.
 
-Links: [Website](#) · [GitHub](https://github.com/username)
+Links: [GitHub](https://github.com/deweyhannah)
 
 #### Lexi Michaels — Secretary
 Research interests include
