@@ -14,7 +14,7 @@ The website is typically deployed from the **main** branch, and you can work on 
 2. You'll need to set up an SSH key to be able to **clone** or copy repositories locally to work on them. To do this, open a terminal on your system and generate an SSH key by typing in the following:
 `ssh-keygen -t ed25519 -C "youremail@email.com"`
 
-Replace the final part with the email associated with your GitHub account. It will ask you to selecvt the location to save the key, or a password/passphrase to associate with the key, but you don't need to do either of those things. Just press ENTER to bypass these requirements. 
+Replace the final part with the email associated with your GitHub account. It will ask you to select the location to save the key, or a password/passphrase to associate with the key, but you don't need to do either of those things. Just press ENTER to bypass these requirements. 
 You know it has worked successfully when it generates a randomart image for your key. The output will also include the path to where the key was saved, and you can get the key by running the following command:
 `cat /path/.ssh/id_ed25519.pub`
 

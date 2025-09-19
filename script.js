@@ -58,6 +58,7 @@ document.addEventListener('DOMContentLoaded', () => {
       events: ['content/events.md', 'content/events.html'],
       team: ['content/team.md', 'content/team.html'],
       resources: ['content/resources.html', 'content/resources.md'],
+      contribute: ['content/contribute.md', 'content/contribute.html'],
       join: ['content/join.md', 'content/join.html'],
     };
 
