@@ -11,7 +11,7 @@ Research interests include leveraging genetic diversity to investigate gene-by-e
 Links: [GitHub](https://github.com/deweyhannah)
 
 #### Lexi Michaels — Secretary
-Research interests include
+Research interests include Y chromosome diversity and effects of copy number variation
 
 Links: [Website](#) · [GitHub](https://github.com/username)
 
