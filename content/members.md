@@ -17,4 +17,11 @@ Welcome! Add yourself below by copying the template section. Fill in your detail
 
 ## Members List
 
-<!-- Copy and paste the template above for your entry below this line! -->
+**Name:** Kim Beliard
+
+**Favorite Programming Language:** I've only ever used MatLab 
+
+**Fun Fact:** Love mamrosets
+
+
+
