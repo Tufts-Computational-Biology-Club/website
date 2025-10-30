@@ -24,4 +24,11 @@ Welcome! Add yourself below by copying the template section. Fill in your detail
 **Fun Fact:** Love mamrosets
 
 
+**Name:** Carly Rodriguez
+
+**Favorite Programming Language:** R
+
+**Fun Fact:** I have a pet axolotl named Momo
+
+**Personal Website:** https://carlyrod.github.io/
 
