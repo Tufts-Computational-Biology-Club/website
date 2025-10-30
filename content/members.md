@@ -26,3 +26,19 @@ Welcome! Add yourself below by copying the template section. Fill in your detail
 **Fun Fact:** My favorite color is green.
 
 **Personal Website:** <!-- (Optional) paste your URL here, or delete this line if none -->
+
+**Name:** Kim Beliard
+
+**Favorite Programming Language:** I've only ever used MatLab 
+
+**Fun Fact:** Love mamrosets
+
+
+**Name:** Carly Rodriguez
+
+**Favorite Programming Language:** R
+
+**Fun Fact:** I have a pet axolotl named Momo
+
+**Personal Website:** https://carlyrod.github.io/
+
