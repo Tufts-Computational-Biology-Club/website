@@ -13,8 +13,7 @@ Edit content (Markdown or HTML)
 The homepage loads these files client-side. If both HTML and Markdown exist for a section, HTML is preferred for `resources`; others prefer Markdown but will fall back to HTML if present.
 
 Local preview
-- Recommended: `python3 -m http.server` then open http://localhost:8000/website/
-- Or `npx serve website --listen 8000`
+- Recommended: `python3 -m http.server` then open http://localhost:8000/
 
 Styling
 - Tweak colors/spacing in `styles.css`. Minimal, accessible defaults.
