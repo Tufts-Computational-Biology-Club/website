@@ -18,3 +18,11 @@ Welcome! Add yourself below by copying the template section. Fill in your detail
 ## Members List
 
 <!-- Copy and paste the template above for your entry below this line! -->
+
+**Name:** Courtney Willey
+
+**Favorite Programming Language:** Bash, R 
+
+**Fun Fact:** My favorite color is green.
+
+**Personal Website:** <!-- (Optional) paste your URL here, or delete this line if none -->
