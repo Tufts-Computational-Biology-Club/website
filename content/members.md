@@ -18,3 +18,10 @@ Welcome! Add yourself below by copying the template section. Fill in your detail
 ## Members List
 
 <!-- Copy and paste the template above for your entry below this line! -->
+**Name:** Jaycee Choi
+
+**Favorite Programming Language:** Python, Bash
+
+**Fun Fact:** I enjoy minesweeper
+
+**Personal Website:** jayceechoi.com
