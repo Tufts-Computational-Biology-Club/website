@@ -8,6 +8,7 @@ Edit content (Markdown or HTML)
 - Team: `website/content/team.md` (or `team.html`)
 - Resources: `website/content/resources.html`
 - Join: `website/content/join.md` (or `join.html`)
+- Members: `website/content/members.md`
 
 The homepage loads these files client-side. If both HTML and Markdown exist for a section, HTML is preferred for `resources`; others prefer Markdown but will fall back to HTML if present.
 
@@ -23,3 +24,4 @@ Publishing with GitHub Pages
 
 Contributing
 - Drop your HTML at `website/content/resources.html` and refresh. For other sections, edit the `.md` files or provide an `.html` file if you need custom markup.
+- To add yourself as a member, edit `website/content/members.md` using the provided template. Create a new branch for your changes, then open a pull request.
