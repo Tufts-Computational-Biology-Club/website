@@ -9,3 +9,5 @@ Our goal is to create a supportive environment where students at all levels can:
 Whether you're just starting out or already experienced, there's a place for you in our community!
 
 Use this website to get to know us, access resources, and get involved with our club!
+
+**We are looking for students to join the club leadership, especially if based in Boston!**
