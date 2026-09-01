@@ -61,6 +61,7 @@ document.addEventListener('DOMContentLoaded', () => {
       resources: ['content/resources.html', 'content/resources.md', 'content/Resources.html'],
       join: ['content/join.md', 'content/join.html'],
       members: ['content/members.md', 'content/members.html'],
+      alumni: ['content/alumni.md', 'content/alumni.html'],
     };
 
     mdTargets.forEach(async (el) => {
